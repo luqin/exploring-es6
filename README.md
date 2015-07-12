@@ -1,1 +1,3 @@
-# exploring-es6
+# Exploring ES6
+
+## Table of Contents
